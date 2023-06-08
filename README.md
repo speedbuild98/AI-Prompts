@@ -2,6 +2,8 @@
 
 This web app allows users to share and discover AI Prompts. It is built using Next.js, MongoDB, next-auth, and Tailwind CSS.
 
+[![Go to the site!](https://github.com/speedbuild98/AI-Prompts/blob/main/preview.png?raw=true)](https://lg-ai-prompts.vercel.app/)
+
 ## Features
 
 - User authentication using next-auth for secure login and registration
