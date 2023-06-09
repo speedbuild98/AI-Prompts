@@ -24,16 +24,16 @@ This web app allows users to share and discover AI Prompts. It is built using Ne
 
 git clone https://github.com/speedbuild98/AI-Prompts
 
-Install the dependencies:
+2. Install the dependencies:
 
-cd ai-prompts-web-app
+cd AI-Prompts
 npm install
 
-Configure environment variables:
+3. Configure environment variables:
 
 Rename the .env.example file to .env and update the values according to your setup. Make sure to provide the necessary MongoDB connection URL and any other required variables.
 
-Start the development server:
+4.Start the development server:
 
 npm run dev
 The app should now be running on http://localhost:3000.
